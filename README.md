@@ -1,1 +1,1 @@
-https://dopaaminee.github.io/beep-boopppp/
+https://dopaaminee.github.io/beepp-booppp/
