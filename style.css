@@ -1086,7 +1086,7 @@ body {
 
 .love-back {
     position: absolute;
-    left: 22%;
+    left: 20%;
     bottom: 25%;
     z-index: 5;
     -webkit-transform: rotate(-90deg);
